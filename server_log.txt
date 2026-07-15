@@ -1,0 +1,21 @@
+
+
+################################################################
+[2026-07-15 16:05:22] [INFO] Initializing new log session. File: D:\MTPT\server_log.txt
+[INDEXER] Scanning directory 'storage' for Categories, Sub-dirs & Files...
+[INDEXER] Total indexed database nodes: 0
+[DB] SUCCESS: Synchronized metadata with SQLite.
+
+=== MTPT Server v1.1===
+Port: 5050
+Active Items in Database: 0
+
+[SECURITY] ADMIN KEY: dqw4w
+===========================================
+
+  Local IP (LAN): 192.168.136.1 (Adapter: VMware Virtual Ethernet Adapter for VMnet1)
+  Local IP (LAN): 192.168.75.1 (Adapter: VMware Virtual Ethernet Adapter for VMnet8)
+  Local IP (LAN): 192.168.56.1 (Adapter: VirtualBox Host-Only Ethernet Adapter)
+  Local IP (LAN): 192.168.0.100 (Adapter: TP-Link Wireless PCI Express Adapter)
+  External IP (WAN): xxx.xxx.xxx.xxx
+[2026-07-15 16:05:23] [INFO] Server started successfully. Waiting for connections...
